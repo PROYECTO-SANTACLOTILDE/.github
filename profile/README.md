@@ -19,4 +19,4 @@ La implementación de OpenMRS permitirá a los profesionales de salud tener acce
 
 ---
 
-Este es un trabajo especial que hemos hecho con cariño y de buena voluntad. **PERÚ HCE** es el nombre de nuestra organización.
+Este es un trabajo especial que hemos hecho con cariño y de buena voluntad. **PERÚ HCE** es el nombre de nuestro grupo de estudiantes.
