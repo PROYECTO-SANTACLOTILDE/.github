@@ -2,7 +2,7 @@
 
 ## 📝 Descripción
 
-SIH SALUS es un proyecto orientado a la **implantación de OpenMRS** (Open Medical Record System) en hospitales y centros de salud en Perú, con un enfoque inicial en el hospital de **Santa Clotilde**. El propósito principal es **digitalizar los registros médicos de los pacientes**, mejorar la **gestión de la atención sanitaria**, el **seguimiento de pacientes** y la **optimización de recursos** en áreas rurales de Perú.
+SIH SALUS es un proyecto orientado a la **implantación de OpenMRS** en hospitales y centros de salud en Perú, con un enfoque inicial en el hospital de **Santa Clotilde**. El propósito principal es **digitalizar los registros médicos de los pacientes**, mejorar la **gestión de la atención sanitaria**, el **seguimiento de pacientes** y la **optimización de recursos** en áreas rurales de Perú.
 
 La implementación de OpenMRS permitirá a los profesionales de salud tener acceso rápido y eficiente a los datos médicos de los pacientes, reduciendo los errores médicos, mejorando la calidad de la atención y ofreciendo una mejor administración de la información clínica.
 
@@ -19,4 +19,4 @@ La implementación de OpenMRS permitirá a los profesionales de salud tener acce
 
 ---
 
-Este es un trabajo especial que hemos hecho con cariño y de buena voluntad. **PERU HCE** es el nombre informal de nuestra organización.
+Este es un trabajo especial que hemos hecho con cariño y de buena voluntad. **PERÚ HCE** es el nombre de nuestra organización.
